@@ -15,5 +15,5 @@ After training for 120 epochs, the generator can generate images that are simila
 </p> 
 
 ## Authors
-liangstein (lxxhlb@gmail.com, lxxhlb@mail.ustc.edu.cn) 
+liangstein (lxxhlb@gmail.com) 
 
